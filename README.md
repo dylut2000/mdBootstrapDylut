@@ -1,27 +1,26 @@
-# MdbAngularFree
+# BootstrapDylut
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.4.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8
+And it using [Material Design for Bootstrap](https://mdbootstrap.com/docs/angular/)
 
-## Development server
+## How it works
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+clone or download the project <br>
+switch to the project directory <br>
+Run the following command
 
-## Code scaffolding
+```bash
+# To remove my git files and make the template yours
+$ rm -rf .git
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Install all the dependencies
+$ sudo npm install
 
-## Build
+# Then run the project
+$ ng serve -o
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+This project was created by [Hardy Lutula #dylut2000](https://twitter.com/dylut2000?lang=en)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Have fun guys... will add some more stuff so stay tune on my [GITHUB dylut2000](https://github.com/dylut2000)
